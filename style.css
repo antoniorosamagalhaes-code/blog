@@ -1,1 +1,17 @@
+header{
+  background-color: lightblue; 
+  color: purple;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16px;
+}
 
+main{
+  background-color: lightblue;
+  color: purple;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16px;
+  
+}
